@@ -52,6 +52,8 @@ public class AntiPiracyConstants {
         "com.xperia64.rompatcher",                             // ROM patcher
         "com.xperia64.rompatcher.donate",                      // ROM patcher donate
         "com.android.protips",                                 // Lucky patcher with fake package name
+        "p.jasi2169.al3",                                      //Action Launcher3 Patcher
+        "z.jasi2169.tbpatch",                                  // Titanium Bacup patcher
 
         //Anti Malware inclustions:
         "com.android.wp.net.log",                                // Ghost Push Trojan: Timeservice
